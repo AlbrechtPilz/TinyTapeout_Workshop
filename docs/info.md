@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Two bit adder that adds both inputs in binary with one carry over bit.
 
 ## How to test
 
-Explain how to use your project
+Adjust either of the inputs and see how that affects the output sum.
 
 ## External hardware
 
